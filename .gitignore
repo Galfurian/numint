@@ -34,4 +34,6 @@
 # Project specific
 .vscode
 .cache
+.venv
 build
+site
